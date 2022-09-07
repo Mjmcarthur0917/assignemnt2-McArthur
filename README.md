@@ -21,3 +21,7 @@ The closest airport to the USS Yorktown museum is Charleston International Airpo
 8. In 0.2mi Turn right onto International Blvd
 9. In 1.5mi Keep right onto Terminal Blvd toward Ticketing, Baggage Claim
 10. The destination is on your right
+
+* Mount Pleasant Memorial Waterfront Park
+* South Carolina Aquarium 
+* Castle Pinckney

@@ -39,3 +39,10 @@ This is a table that shows 4 places that I recomend people visit
 | Chicago, IL | Willis Tower | 3 days |
 | Springfield, MO | Branson | 5 days |
 | Arlington, VA | Arlington National Cemetary | 6 weeks |
+
+---
+## Quotes
+
+>"There were more than a dozen extinction level events before even the dinosaurs got theirs. When the Earth starts to settle, God throws a stone at it. And, believe me, he's winding up." -*Ultron*
+>
+>“I'm a greater believer in luck, and I find the harder I work the more I have of it.” -*Thomas Jefferson*

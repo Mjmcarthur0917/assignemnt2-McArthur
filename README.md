@@ -46,3 +46,23 @@ This is a table that shows 4 places that I recomend people visit
 >"There were more than a dozen extinction level events before even the dinosaurs got theirs. When the Earth starts to settle, God throws a stone at it. And, believe me, he's winding up." -*Ultron*
 >
 >“I'm a greater believer in luck, and I find the harder I work the more I have of it.” -*Thomas Jefferson*
+
+---
+# Code Fencing - PHP
+
+>I have 2 variables pricePerUnit and InvoicedUnits. Here's the code that is setting these to values:
+>
+>```$InvoicedUnits = ((string) $InvoiceLineItem->InvoicedUnits);```
+>```$pricePerUnit = ((string) $InvoiceLineItem->PricePerUnit);```
+>If I output this, I get the correct values. Lets say 5000 invoiced units and 1.00 for price.
+>
+>Now, I need to show the total amount spent. When I multiply these two together it doesn't work (as expected, these are strings).
+>
+>But I have no clue how to parse/cast/convert variables in PHP.
+>
+>What should I do?
+
+[Stack Overflow](https://stackoverflow.com/questions/481466/php-string-to-float)
+
+```$rootbeer = (float) $InvoicedUnits;```
+[Source](https://stackoverflow.com/questions/481466/php-string-to-float)

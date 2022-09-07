@@ -25,3 +25,5 @@ The closest airport to the USS Yorktown museum is Charleston International Airpo
 * Mount Pleasant Memorial Waterfront Park
 * South Carolina Aquarium 
 * Castle Pinckney
+
+**[About Me](AboutMe.md)**

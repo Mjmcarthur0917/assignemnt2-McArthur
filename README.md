@@ -54,6 +54,7 @@ This is a table that shows 4 places that I recomend people visit
 >
 >```$InvoicedUnits = ((string) $InvoiceLineItem->InvoicedUnits);```
 >```$pricePerUnit = ((string) $InvoiceLineItem->PricePerUnit);```
+>
 >If I output this, I get the correct values. Lets say 5000 invoiced units and 1.00 for price.
 >
 >Now, I need to show the total amount spent. When I multiply these two together it doesn't work (as expected, these are strings).

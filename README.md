@@ -27,3 +27,15 @@ The closest airport to the USS Yorktown museum is Charleston International Airpo
 * Castle Pinckney
 
 **[About Me](AboutMe.md)**
+
+---
+Places To Visit
+
+This is a table that shows 4 places that I recomend people visit
+
+| City | Important Location | Time Visited |
+| --- | --- | --- | 
+| Charleston, SC | Downtown Charleston | 2 days |
+| Chicago, IL | Willis Tower | 3 days |
+| Springfield, MO | Branson | 5 days |
+| Arlington, VA | Arlington National Cemetary | 6 weeks |
